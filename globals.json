@@ -1,0 +1,39 @@
+{
+	"id": "fff7659c-fc49-49bd-8efd-aa9815ba4e20",
+	"values": [
+		{
+			"key": "MailAdmin",
+			"value": "sysadmin@qacoders.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "PasswordAdmin",
+			"value": "1234@Test",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Token",
+			"value": "\"\"",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "MsgChangedPassword",
+			"value": "Senha atualizada com sucesso!",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "MsgChangedDelete",
+			"value": "Estudante deletado com sucesso!",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-02-01T23:14:39.227Z",
+	"_postman_exported_using": "Postman/10.22.9"
+}
